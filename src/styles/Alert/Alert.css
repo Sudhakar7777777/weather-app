@@ -1,0 +1,16 @@
+.alert {
+    color: #856404;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.8em;
+    padding: 5px;
+    padding-left: 30px;
+    border: 1px solid transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.alert-exit{
+    cursor: pointer;
+}
