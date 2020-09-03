@@ -6,7 +6,7 @@ ____
 Open the terminal go into the copied project.
 Writing the npm install command:
 ```cmd
-    cd WeatherStack
+    cd weather-app
     npm install
 ```
 
